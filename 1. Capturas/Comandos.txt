@@ -1,0 +1,30 @@
+********* POST
+http://localhost:8080/productos/guardar
+
+{
+"nombre": "Chaqueta",
+"precio": 90,
+"stock": 23
+}
+
+
+********* PUT
+http://localhost:8080/productos/actualizar
+
+
+
+
+********* DELETE
+http://localhost:8080/productos/eliminar/7
+
+
+
+********* GET
+http://localhost:8080/productos/listar
+
+
+
+
+
+
+
